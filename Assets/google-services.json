@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "291895623135",
+    "project_id": "infinity-38c8e",
+    "storage_bucket": "infinity-38c8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291895623135:android:7bb4289e8bc8b3d1aed86a",
+        "android_client_info": {
+          "package_name": "com.example.spaceminer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5XCi1lvcr24xYiQsdvR5ZEH25ONqcIqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
